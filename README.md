@@ -7,7 +7,7 @@ Backend developer
 -----------------
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-I've been programming for 3 years now and finally found myself as a backend developer.
+I've been programming for 3 years now and finally found myself as a frontend developer.
 
 * 🌍  I'm based in Baku/Azerbaijan
 * ✉️  You can contact me at [alisadiqli001@gmail.com](mailto:alisadiqli001@gmail.com)
