@@ -5,7 +5,6 @@ Hi 👋 My name is Ali Sadygov
 
 Backend developer
 -----------------
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 I've been programming for 3 years now and finally found myself as a frontend developer.
 
