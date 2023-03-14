@@ -3,7 +3,7 @@
 Hi 👋 My name is Ali Sadygov
 ===============================
 
-Backend developer
+Frontend developer
 -----------------
 
 I've been programming for 3 years now and finally found myself as a frontend developer.
