@@ -10,7 +10,6 @@ I've been programming for 3 years now and finally found myself as a frontend dev
 * 🌍  I'm based in Baku/Azerbaijan
 * ✉️  You can contact me at [alisadiqli001@gmail.com](mailto:alisadiqli001@gmail.com)
 * ✉   My Personal Portfolio Website <a href="#" target="_blank">Go to site</a>
-* 🧠  I'm learning React.js
 
 <a href="https://www.github.com/Ali-Sadygov" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nijat-Mansimov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
