@@ -12,7 +12,7 @@ I've been programming for 3 years now and finally found myself as a frontend dev
 * ✉   My Personal Portfolio Website <a href="#" target="_blank">Go to site</a>
 
 <a href="https://www.github.com/Ali-Sadygov" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Nijat-Mansimov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Ali-Sadygov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
