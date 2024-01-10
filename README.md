@@ -28,5 +28,6 @@ src="https://img.shields.io/github/followers/Ali-Sadygov?logo=github&style=for-t
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://emaillistvalidation.com/blog/content/images/2023/10/jquery.gif" width="36" height="36" alt="jQuery" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://mui.com/material-ui/material-icons/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmui.com%2F&psig=AOvVaw1z41q3AxiTiy0KLlLR_Tc0&ust=1704971132109000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD41sjW0oMDFQAAAAAdAAAAABAJ" width="36" height="36" alt="MUI" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
