@@ -8,7 +8,7 @@ Frontend developer
 I've been programming for 3 years now and finally found myself as a frontend developer.
 
 * 🌍  I'm based in Baku/Azerbaijan
-* ✉️  You can contact me at [alisadiqli001@gmail.com](mailto:alisadiqli001@gmail.com)
+* ✉️  You can contact me at [alisadygov.dev@gmail.com](mailto:alisadygov.dev@gmail.com)
 * ✉   My Personal Portfolio Website <a href="#" target="_blank">Go to site</a>
 
 <a href="https://www.github.com/Ali-Sadygov" target="_blank" rel="noreferrer"><img
