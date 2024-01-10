@@ -22,6 +22,8 @@ src="https://img.shields.io/github/followers/Ali-Sadygov?logo=github&style=for-t
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1258/1*okiCUvTUJLtOqJv1dMzwpA.png" width="36" height="36" alt="Next.js" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="Git" /></a>
+  <a href="https://firebase.google.com/?gad_source=1&gclid=Cj0KCQiAnfmsBhDfARIsAM7MKi2jff7uMzbAX99YZel-BwrvJFv4emg44UzLGzp-X7BTnomLVHz59oIaAv75EALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" width="36" height="36" alt="Firebase" /></a>
+
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://emaillistvalidation.com/blog/content/images/2023/10/jquery.gif" width="36" height="36" alt="jQuery" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
