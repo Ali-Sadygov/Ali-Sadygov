@@ -9,7 +9,7 @@ I've been programming for 3 years now and finally found myself as a frontend dev
 
 * 🌍  I'm based in Baku/Azerbaijan
 * ✉️  You can contact me at [alisadygov.dev@gmail.com](mailto:alisadygov.dev@gmail.com)
-* ✉   My Personal Portfolio Website <a href="https://portfolio-alisadygov.netlify.app/" target="_blank">Go to site</a>
+* ✉   My Personal Portfolio Website <a href="https://alisadygov.netlify.app/" target="_blank">Go to site</a>
 
 <a href="https://www.github.com/Ali-Sadygov" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ali-Sadygov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
